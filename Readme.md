@@ -4,7 +4,9 @@
 This Power BI dashboard explores and visualizes temporal and geographical trends in heart attack-related mortality, offering critical insights for healthcare analysis, policy planning, and predictive modeling. This project helped me demonstrate analytical, forecasting, and data storytelling skills during my interview at Eurac Research.
 
 ![image](https://github.com/user-attachments/assets/0c1a9444-6d9a-4711-8a75-0c945f6bf1dc)
+![image](https://github.com/user-attachments/assets/f786c233-d0a3-4112-ab28-ddf8c6deaddf)
 
+**Live** - https://app.powerbi.com/view?r=eyJrIjoiMGNkY2NmMmQtZWJmMS00YmMzLWFlMDItMmYwYzdjZDU1MDEyIiwidCI6IjkwMDkwM2RlLTYwYzAtNDEwOS04OTJhLTM3OGE3MDhjYmZmNCJ9
 
 ## 🩺 Objective
 To analyze heart attack mortality patterns across time, identify anomalies, forecast future trends (2023–2025), and provide insights into the effect of medical interventions and demographic dynamics.
