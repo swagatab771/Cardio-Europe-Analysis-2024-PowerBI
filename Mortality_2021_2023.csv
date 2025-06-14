@@ -1,0 +1,895 @@
+Year,Country,Disease,Gender,Rate
+2021,Belgium,Cerebrovascular,Male,57.06
+2021,Belgium,Cerebrovascular,Female,47.71
+2021,Czech Republic,Cerebrovascular,Male,92.12
+2021,Czech Republic,Cerebrovascular,Female,74.47
+2021,Denmark,Cerebrovascular,Male,62.84
+2021,Denmark,Cerebrovascular,Female,50.68
+2021,Germany,Cerebrovascular,Male,60.93
+2021,Germany,Cerebrovascular,Female,50.35
+2021,Estonia,Cerebrovascular,Male,109.98
+2021,Estonia,Cerebrovascular,Female,64.55
+2021,Ireland,Cerebrovascular,Male,48.01
+2021,Ireland,Cerebrovascular,Female,46.04
+2021,Greece,Cerebrovascular,Male,95.83
+2021,Greece,Cerebrovascular,Female,92.99
+2021,Spain,Cerebrovascular,Male,53.52
+2021,Spain,Cerebrovascular,Female,42.5
+2021,France,Cerebrovascular,Male,47.42
+2021,France,Cerebrovascular,Female,35.96
+2021,Croatia,Cerebrovascular,Male,146.17
+2021,Croatia,Cerebrovascular,Female,115.95
+2021,Italy,Cerebrovascular,Male,76.08
+2021,Italy,Cerebrovascular,Female,63.1
+2021,Cyprus,Cerebrovascular,Male,64.98
+2021,Cyprus,Cerebrovascular,Female,55.43
+2021,Latvia,Cerebrovascular,Male,292.62
+2021,Latvia,Cerebrovascular,Female,228.04
+2021,Lithuania,Cerebrovascular,Male,202.8
+2021,Lithuania,Cerebrovascular,Female,153.56
+2021,Luxembourg,Cerebrovascular,Male,40.34
+2021,Luxembourg,Cerebrovascular,Female,39.98
+2021,Hungary,Cerebrovascular,Male,153.37
+2021,Hungary,Cerebrovascular,Female,110.99
+2021,Malta,Cerebrovascular,Male,53.8
+2021,Malta,Cerebrovascular,Female,56.53
+2021,Netherlands,Cerebrovascular,Male,62.91
+2021,Netherlands,Cerebrovascular,Female,55.61
+2021,Austria,Cerebrovascular,Male,58.6
+2021,Austria,Cerebrovascular,Female,49.2
+2021,Poland,Cerebrovascular,Male,101.32
+2021,Poland,Cerebrovascular,Female,74.96
+2021,Portugal,Cerebrovascular,Male,109.98
+2021,Portugal,Cerebrovascular,Female,81.39
+2021,Romania,Cerebrovascular,Male,247.19
+2021,Romania,Cerebrovascular,Female,198.6
+2021,Slovenia,Cerebrovascular,Male,106.86
+2021,Slovenia,Cerebrovascular,Female,85.16
+2021,Slovakia,Cerebrovascular,Male,128.63
+2021,Slovakia,Cerebrovascular,Female,87.23
+2021,Finland,Cerebrovascular,Male,78.48
+2021,Finland,Cerebrovascular,Female,58.97
+2021,Sweden,Cerebrovascular,Male,58.15
+2021,Sweden,Cerebrovascular,Female,44.44
+2021,Iceland,Cerebrovascular,Male,54.12
+2021,Iceland,Cerebrovascular,Female,43.14
+2021,Liechtenstein,Cerebrovascular,Male,37.79
+2021,Liechtenstein,Cerebrovascular,Female,37.32
+2021,Norway,Cerebrovascular,Male,51.13
+2021,Norway,Cerebrovascular,Female,41.98
+2021,Switzerland,Cerebrovascular,Male,42.92
+2021,Switzerland,Cerebrovascular,Female,37.13
+2021,Serbia,Cerebrovascular,Male,162.36
+2021,Serbia,Cerebrovascular,Female,140.59
+2022,Belgium,Cerebrovascular,Male,51.56
+2022,Belgium,Cerebrovascular,Female,45.59
+2022,Czech Republic,Cerebrovascular,Male,94.67
+2022,Czech Republic,Cerebrovascular,Female,73.1
+2022,Denmark,Cerebrovascular,Male,59.85
+2022,Denmark,Cerebrovascular,Female,49.38
+2022,Germany,Cerebrovascular,Male,60.22
+2022,Germany,Cerebrovascular,Female,49.15
+2022,Estonia,Cerebrovascular,Male,106.37
+2022,Estonia,Cerebrovascular,Female,61.51
+2022,Ireland,Cerebrovascular,Male,44.88
+2022,Ireland,Cerebrovascular,Female,41.03
+2022,Greece,Cerebrovascular,Male,96.68
+2022,Greece,Cerebrovascular,Female,91.08
+2022,Spain,Cerebrovascular,Male,53.64
+2022,Spain,Cerebrovascular,Female,41.79
+2022,France,Cerebrovascular,Male,45.28
+2022,France,Cerebrovascular,Female,34.35
+2022,Croatia,Cerebrovascular,Male,138.15
+2022,Croatia,Cerebrovascular,Female,108.91
+2022,Italy,Cerebrovascular,Male,77.32
+2022,Italy,Cerebrovascular,Female,65.83
+2022,Cyprus,Cerebrovascular,Male,56.25
+2022,Cyprus,Cerebrovascular,Female,48.77
+2022,Latvia,Cerebrovascular,Male,298.31
+2022,Latvia,Cerebrovascular,Female,233.93
+2022,Lithuania,Cerebrovascular,Male,197.26
+2022,Lithuania,Cerebrovascular,Female,162.87
+2022,Luxembourg,Cerebrovascular,Male,53.72
+2022,Luxembourg,Cerebrovascular,Female,36.6
+2022,Hungary,Cerebrovascular,Male,154.01
+2022,Hungary,Cerebrovascular,Female,110.65
+2022,Malta,Cerebrovascular,Male,55.19
+2022,Malta,Cerebrovascular,Female,40.98
+2022,Netherlands,Cerebrovascular,Male,57.61
+2022,Netherlands,Cerebrovascular,Female,51.92
+2022,Austria,Cerebrovascular,Male,59.13
+2022,Austria,Cerebrovascular,Female,47.16
+2022,Poland,Cerebrovascular,Male,114.4
+2022,Poland,Cerebrovascular,Female,82.62
+2022,Portugal,Cerebrovascular,Male,109.97
+2022,Portugal,Cerebrovascular,Female,84.52
+2022,Romania,Cerebrovascular,Male,269.93
+2022,Romania,Cerebrovascular,Female,202.33
+2022,Slovenia,Cerebrovascular,Male,103
+2022,Slovenia,Cerebrovascular,Female,82.97
+2022,Slovakia,Cerebrovascular,Male,135.22
+2022,Slovakia,Cerebrovascular,Female,95.77
+2022,Finland,Cerebrovascular,Male,78.03
+2022,Finland,Cerebrovascular,Female,57.51
+2022,Sweden,Cerebrovascular,Male,55.07
+2022,Sweden,Cerebrovascular,Female,43.63
+2022,Iceland,Cerebrovascular,Male,40.77
+2022,Iceland,Cerebrovascular,Female,50
+2022,Liechtenstein,Cerebrovascular,Male,73.29
+2022,Liechtenstein,Cerebrovascular,Female,31.32
+2022,Norway,Cerebrovascular,Male,51.68
+2022,Norway,Cerebrovascular,Female,39.82
+2022,Switzerland,Cerebrovascular,Male,42.64
+2022,Switzerland,Cerebrovascular,Female,38.43
+2022,Serbia,Cerebrovascular,Male,159.65
+2022,Serbia,Cerebrovascular,Female,137.09
+2023,Belgium,Cerebrovascular,Male,52.86
+2023,Belgium,Cerebrovascular,Female,44.15
+2023,Czech Republic,Cerebrovascular,Male,86.07
+2023,Czech Republic,Cerebrovascular,Female,69.59
+2023,Denmark,Cerebrovascular,Male,59.14
+2023,Denmark,Cerebrovascular,Female,49.58
+2023,Germany,Cerebrovascular,Male,59.31
+2023,Germany,Cerebrovascular,Female,48.01
+2023,Estonia,Cerebrovascular,Male,99.08
+2023,Estonia,Cerebrovascular,Female,63.6
+2023,Ireland,Cerebrovascular,Male,41.73
+2023,Ireland,Cerebrovascular,Female,40.2
+2023,Greece,Cerebrovascular,Male,92.79
+2023,Greece,Cerebrovascular,Female,85.59
+2023,Spain,Cerebrovascular,Male,51.64
+2023,Spain,Cerebrovascular,Female,39.33
+2023,France,Cerebrovascular,Male,45.06
+2023,France,Cerebrovascular,Female,34.05
+2023,Croatia,Cerebrovascular,Male,132.66
+2023,Croatia,Cerebrovascular,Female,115.43
+2023,Italy,Cerebrovascular,Male,71.64
+2023,Italy,Cerebrovascular,Female,60.79
+2023,Cyprus,Cerebrovascular,Male,58.47
+2023,Cyprus,Cerebrovascular,Female,48.8
+2023,Latvia,Cerebrovascular,Male,305.52
+2023,Latvia,Cerebrovascular,Female,243.57
+2023,Lithuania,Cerebrovascular,Male,207.66
+2023,Lithuania,Cerebrovascular,Female,160.22
+2023,Luxembourg,Cerebrovascular,Male,51.47
+2023,Luxembourg,Cerebrovascular,Female,36.47
+2023,Hungary,Cerebrovascular,Male,144.04
+2023,Hungary,Cerebrovascular,Female,98.37
+2023,Malta,Cerebrovascular,Male,52.71
+2023,Malta,Cerebrovascular,Female,45.22
+2023,Netherlands,Cerebrovascular,Male,57.28
+2023,Netherlands,Cerebrovascular,Female,52.39
+2023,Austria,Cerebrovascular,Male,54.35
+2023,Austria,Cerebrovascular,Female,45.54
+2023,Poland,Cerebrovascular,Male,109.01
+2023,Poland,Cerebrovascular,Female,80.29
+2023,Portugal,Cerebrovascular,Male,87.54
+2023,Portugal,Cerebrovascular,Female,66.12
+2023,Romania,Cerebrovascular,Male,293.07
+2023,Romania,Cerebrovascular,Female,212.06
+2023,Slovenia,Cerebrovascular,Male,100.47
+2023,Slovenia,Cerebrovascular,Female,78.27
+2023,Slovakia,Cerebrovascular,Male,140.5
+2023,Slovakia,Cerebrovascular,Female,99.38
+2023,Finland,Cerebrovascular,Male,70.95
+2023,Finland,Cerebrovascular,Female,57.59
+2023,Sweden,Cerebrovascular,Male,53.16
+2023,Sweden,Cerebrovascular,Female,42.68
+2023,Iceland,Cerebrovascular,Male,44.42
+2023,Iceland,Cerebrovascular,Female,50.59
+2023,Liechtenstein,Cerebrovascular,Male,61.74
+2023,Liechtenstein,Cerebrovascular,Female,33.7
+2023,Norway,Cerebrovascular,Male,46.98
+2023,Norway,Cerebrovascular,Female,39.13
+2023,Switzerland,Cerebrovascular,Male,40.6
+2023,Switzerland,Cerebrovascular,Female,34.4
+2023,Serbia,Cerebrovascular,Male,155.89
+2023,Serbia,Cerebrovascular,Female,132.39
+2021,Belgium,AMI,Male,44.22
+2021,Belgium,AMI,Female,20.74
+2021,Czech Republic,AMI,Male,55.97
+2021,Czech Republic,AMI,Female,26.83
+2021,Denmark,AMI,Male,30.44
+2021,Denmark,AMI,Female,14.04
+2021,Germany,AMI,Male,66.5
+2021,Germany,AMI,Female,31.42
+2021,Estonia,AMI,Male,55.25
+2021,Estonia,AMI,Female,23.83
+2021,Ireland,AMI,Male,67.6
+2021,Ireland,AMI,Female,33.87
+2021,Greece,AMI,Male,73.84
+2021,Greece,AMI,Female,31.92
+2021,Spain,AMI,Male,38.22
+2021,Spain,AMI,Female,16.16
+2021,France,AMI,Male,27.24
+2021,France,AMI,Female,11.07
+2021,Croatia,AMI,Male,100.21
+2021,Croatia,AMI,Female,45.7
+2021,Italy,AMI,Male,37.69
+2021,Italy,AMI,Female,17.42
+2021,Cyprus,AMI,Male,63.25
+2021,Cyprus,AMI,Female,21.79
+2021,Latvia,AMI,Male,70.1
+2021,Latvia,AMI,Female,28.14
+2021,Lithuania,AMI,Male,60.24
+2021,Lithuania,AMI,Female,25.88
+2021,Luxembourg,AMI,Male,40.95
+2021,Luxembourg,AMI,Female,14.43
+2021,Hungary,AMI,Male,88.39
+2021,Hungary,AMI,Female,40.64
+2021,Malta,AMI,Male,110.65
+2021,Malta,AMI,Female,58.23
+2021,Netherlands,AMI,Male,41.4
+2021,Netherlands,AMI,Female,21.84
+2021,Austria,AMI,Male,70.31
+2021,Austria,AMI,Female,32.18
+2021,Poland,AMI,Male,53.75
+2021,Poland,AMI,Female,24.06
+2021,Portugal,AMI,Male,51.21
+2021,Portugal,AMI,Female,24.5
+2021,Romania,AMI,Male,141.24
+2021,Romania,AMI,Female,72.61
+2021,Slovenia,AMI,Male,90.26
+2021,Slovenia,AMI,Female,32.36
+2021,Slovakia,AMI,Male,59.6
+2021,Slovakia,AMI,Female,24.46
+2021,Finland,AMI,Male,54.75
+2021,Finland,AMI,Female,26.37
+2021,Sweden,AMI,Male,54.72
+2021,Sweden,AMI,Female,29.27
+2021,Liechtenstein,AMI,Male,23.21
+2021,Liechtenstein,AMI,Female,0
+2021,Norway,AMI,Male,51.15
+2021,Norway,AMI,Female,28.65
+2021,Switzerland,AMI,Male,38.42
+2021,Switzerland,AMI,Female,18.05
+2021,Serbia,AMI,Male,88.77
+2021,Serbia,AMI,Female,46.14
+2022,Belgium,AMI,Male,41.28
+2022,Belgium,AMI,Female,17.95
+2022,Czech Republic,AMI,Male,54.86
+2022,Czech Republic,AMI,Female,23.58
+2022,Denmark,AMI,Male,29.94
+2022,Denmark,AMI,Female,13.23
+2022,Germany,AMI,Male,65.77
+2022,Germany,AMI,Female,30.47
+2022,Estonia,AMI,Male,54.04
+2022,Estonia,AMI,Female,22.22
+2022,Ireland,AMI,Male,64.51
+2022,Ireland,AMI,Female,31.69
+2022,Greece,AMI,Male,72.13
+2022,Greece,AMI,Female,33.91
+2022,Spain,AMI,Male,39.02
+2022,Spain,AMI,Female,16.18
+2022,France,AMI,Male,26.56
+2022,France,AMI,Female,10.31
+2022,Croatia,AMI,Male,95.68
+2022,Croatia,AMI,Female,39.27
+2022,Italy,AMI,Male,38.14
+2022,Italy,AMI,Female,17.6
+2022,Cyprus,AMI,Male,55.32
+2022,Cyprus,AMI,Female,27.52
+2022,Latvia,AMI,Male,66.72
+2022,Latvia,AMI,Female,27.62
+2022,Lithuania,AMI,Male,62.75
+2022,Lithuania,AMI,Female,24.34
+2022,Luxembourg,AMI,Male,40.66
+2022,Luxembourg,AMI,Female,16.72
+2022,Hungary,AMI,Male,85.93
+2022,Hungary,AMI,Female,41.11
+2022,Malta,AMI,Male,100.2
+2022,Malta,AMI,Female,61.94
+2022,Netherlands,AMI,Male,38.98
+2022,Netherlands,AMI,Female,20.02
+2022,Austria,AMI,Male,73.27
+2022,Austria,AMI,Female,32.84
+2022,Poland,AMI,Male,63.36
+2022,Poland,AMI,Female,26.18
+2022,Portugal,AMI,Male,50.68
+2022,Portugal,AMI,Female,22.33
+2022,Romania,AMI,Male,155.06
+2022,Romania,AMI,Female,74.69
+2022,Slovenia,AMI,Male,76.53
+2022,Slovenia,AMI,Female,31.84
+2022,Slovakia,AMI,Male,71.36
+2022,Slovakia,AMI,Female,26.47
+2022,Finland,AMI,Male,54.38
+2022,Finland,AMI,Female,23.09
+2022,Sweden,AMI,Male,50.11
+2022,Sweden,AMI,Female,24.35
+2022,Liechtenstein,AMI,Male,17.55
+2022,Liechtenstein,AMI,Female,5.06
+2022,Norway,AMI,Male,42.25
+2022,Norway,AMI,Female,24.82
+2022,Switzerland,AMI,Male,39.39
+2022,Switzerland,AMI,Female,17.65
+2022,Serbia,AMI,Male,80.94
+2022,Serbia,AMI,Female,44.19
+2023,Belgium,AMI,Male,40.79
+2023,Belgium,AMI,Female,18.44
+2023,Czech Republic,AMI,Male,50.21
+2023,Czech Republic,AMI,Female,21.34
+2023,Denmark,AMI,Male,29.13
+2023,Denmark,AMI,Female,12.43
+2023,Germany,AMI,Male,66.75
+2023,Germany,AMI,Female,30.15
+2023,Estonia,AMI,Male,55.2
+2023,Estonia,AMI,Female,22
+2023,Ireland,AMI,Male,61.96
+2023,Ireland,AMI,Female,27.72
+2023,Greece,AMI,Male,78.76
+2023,Greece,AMI,Female,33.21
+2023,Spain,AMI,Male,36.67
+2023,Spain,AMI,Female,15.63
+2023,France,AMI,Male,26.84
+2023,France,AMI,Female,10.47
+2023,Croatia,AMI,Male,105.42
+2023,Croatia,AMI,Female,46.95
+2023,Italy,AMI,Male,35.64
+2023,Italy,AMI,Female,16.25
+2023,Cyprus,AMI,Male,62.8
+2023,Cyprus,AMI,Female,20.37
+2023,Latvia,AMI,Male,71.26
+2023,Latvia,AMI,Female,26.82
+2023,Lithuania,AMI,Male,64.7
+2023,Lithuania,AMI,Female,21.62
+2023,Luxembourg,AMI,Male,34.29
+2023,Luxembourg,AMI,Female,14.37
+2023,Hungary,AMI,Male,90.33
+2023,Hungary,AMI,Female,43.84
+2023,Malta,AMI,Male,86.05
+2023,Malta,AMI,Female,61.39
+2023,Netherlands,AMI,Male,40.65
+2023,Netherlands,AMI,Female,19.26
+2023,Austria,AMI,Male,69.8
+2023,Austria,AMI,Female,29.63
+2023,Poland,AMI,Male,54.1
+2023,Poland,AMI,Female,21.99
+2023,Portugal,AMI,Male,45.53
+2023,Portugal,AMI,Female,21.51
+2023,Romania,AMI,Male,169.64
+2023,Romania,AMI,Female,83.55
+2023,Slovenia,AMI,Male,85.35
+2023,Slovenia,AMI,Female,32.68
+2023,Slovakia,AMI,Male,79.23
+2023,Slovakia,AMI,Female,30.46
+2023,Finland,AMI,Male,50.44
+2023,Finland,AMI,Female,21.68
+2023,Sweden,AMI,Male,50.06
+2023,Sweden,AMI,Female,22.6
+2023,Liechtenstein,AMI,Male,23.63
+2023,Liechtenstein,AMI,Female,14.45
+2023,Norway,AMI,Male,44.05
+2023,Norway,AMI,Female,23.04
+2023,Switzerland,AMI,Male,36.82
+2023,Switzerland,AMI,Female,16.02
+2023,Serbia,AMI,Male,84.23
+2023,Serbia,AMI,Female,41.54
+2021,Belgium,Other Heart Disease,Male,104.06
+2021,Belgium,Other Heart Disease,Female,85.74
+2021,Czech Republic,Other Heart Disease,Male,129.53
+2021,Czech Republic,Other Heart Disease,Female,91.33
+2021,Denmark,Other Heart Disease,Male,69.83
+2021,Denmark,Other Heart Disease,Female,41.64
+2021,Germany,Other Heart Disease,Male,105.31
+2021,Germany,Other Heart Disease,Female,84.85
+2021,Ireland,Other Heart Disease,Male,65.51
+2021,Ireland,Other Heart Disease,Female,50.82
+2021,Greece,Other Heart Disease,Male,74.45
+2021,Greece,Other Heart Disease,Female,75.18
+2021,Spain,Other Heart Disease,Male,82.49
+2021,Spain,Other Heart Disease,Female,62.95
+2021,France,Other Heart Disease,Male,77.93
+2021,France,Other Heart Disease,Female,51.96
+2021,Croatia,Other Heart Disease,Male,97.75
+2021,Croatia,Other Heart Disease,Female,72.12
+2021,Italy,Other Heart Disease,Male,71.58
+2021,Italy,Other Heart Disease,Female,54.56
+2021,Cyprus,Other Heart Disease,Male,69.44
+2021,Cyprus,Other Heart Disease,Female,75.03
+2021,Latvia,Other Heart Disease,Male,108.39
+2021,Latvia,Other Heart Disease,Female,50.55
+2021,Lithuania,Other Heart Disease,Male,42.06
+2021,Lithuania,Other Heart Disease,Female,17.35
+2021,Luxembourg,Other Heart Disease,Male,133.05
+2021,Luxembourg,Other Heart Disease,Female,85.08
+2021,Hungary,Other Heart Disease,Male,92.14
+2021,Hungary,Other Heart Disease,Female,54.52
+2021,Malta,Other Heart Disease,Male,58.13
+2021,Malta,Other Heart Disease,Female,51.92
+2021,Netherlands,Other Heart Disease,Male,112.03
+2021,Netherlands,Other Heart Disease,Female,84.15
+2021,Austria,Other Heart Disease,Male,99.46
+2021,Austria,Other Heart Disease,Female,80.31
+2021,Poland,Other Heart Disease,Male,172.91
+2021,Poland,Other Heart Disease,Female,106.48
+2021,Portugal,Other Heart Disease,Male,87.51
+2021,Portugal,Other Heart Disease,Female,68.13
+2021,Romania,Other Heart Disease,Male,88.2
+2021,Romania,Other Heart Disease,Female,52.24
+2021,Slovenia,Other Heart Disease,Male,133.4
+2021,Slovenia,Other Heart Disease,Female,123.31
+2021,Slovakia,Other Heart Disease,Male,104.84
+2021,Slovakia,Other Heart Disease,Female,65.8
+2021,Finland,Other Heart Disease,Male,40.86
+2021,Finland,Other Heart Disease,Female,20.97
+2021,Sweden,Other Heart Disease,Male,97.48
+2021,Sweden,Other Heart Disease,Female,66.44
+2021,Iceland,Other Heart Disease,Male,90.97
+2021,Iceland,Other Heart Disease,Female,62.78
+2021,Liechtenstein,Other Heart Disease,Male,222.43
+2021,Liechtenstein,Other Heart Disease,Female,205.59
+2021,Norway,Other Heart Disease,Male,72.21
+2021,Norway,Other Heart Disease,Female,56.44
+2021,Switzerland,Other Heart Disease,Male,68.42
+2021,Switzerland,Other Heart Disease,Female,52.29
+2021,Serbia,Other Heart Disease,Male,363.17
+2021,Serbia,Other Heart Disease,Female,322.78
+2022,Belgium,Other Heart Disease,Male,102.9
+2022,Belgium,Other Heart Disease,Female,81.61
+2022,Czech Republic,Other Heart Disease,Male,136.9
+2022,Czech Republic,Other Heart Disease,Female,96.94
+2022,Denmark,Other Heart Disease,Male,62.59
+2022,Denmark,Other Heart Disease,Female,39.9
+2022,Germany,Other Heart Disease,Male,102.99
+2022,Germany,Other Heart Disease,Female,81.38
+2022,Ireland,Other Heart Disease,Male,55.86
+2022,Ireland,Other Heart Disease,Female,49.58
+2022,Greece,Other Heart Disease,Male,74.87
+2022,Greece,Other Heart Disease,Female,75.1
+2022,Spain,Other Heart Disease,Male,81.51
+2022,Spain,Other Heart Disease,Female,62.49
+2022,France,Other Heart Disease,Male,73.75
+2022,France,Other Heart Disease,Female,47.22
+2022,Croatia,Other Heart Disease,Male,104.21
+2022,Croatia,Other Heart Disease,Female,83.95
+2022,Italy,Other Heart Disease,Male,71.59
+2022,Italy,Other Heart Disease,Female,53.88
+2022,Cyprus,Other Heart Disease,Male,86.7
+2022,Cyprus,Other Heart Disease,Female,84.16
+2022,Latvia,Other Heart Disease,Male,104.36
+2022,Latvia,Other Heart Disease,Female,47.23
+2022,Lithuania,Other Heart Disease,Male,47.74
+2022,Lithuania,Other Heart Disease,Female,19.07
+2022,Luxembourg,Other Heart Disease,Male,106.53
+2022,Luxembourg,Other Heart Disease,Female,69.29
+2022,Hungary,Other Heart Disease,Male,86.35
+2022,Hungary,Other Heart Disease,Female,52.19
+2022,Malta,Other Heart Disease,Male,50.12
+2022,Malta,Other Heart Disease,Female,48.51
+2022,Netherlands,Other Heart Disease,Male,99.19
+2022,Netherlands,Other Heart Disease,Female,74.21
+2022,Austria,Other Heart Disease,Male,98.98
+2022,Austria,Other Heart Disease,Female,80.41
+2022,Poland,Other Heart Disease,Male,146.87
+2022,Poland,Other Heart Disease,Female,90.35
+2022,Portugal,Other Heart Disease,Male,88.36
+2022,Portugal,Other Heart Disease,Female,71.26
+2022,Romania,Other Heart Disease,Male,94.66
+2022,Romania,Other Heart Disease,Female,51.65
+2022,Slovenia,Other Heart Disease,Male,129.15
+2022,Slovenia,Other Heart Disease,Female,115.48
+2022,Slovakia,Other Heart Disease,Male,76.12
+2022,Slovakia,Other Heart Disease,Female,51.6
+2022,Finland,Other Heart Disease,Male,40.08
+2022,Finland,Other Heart Disease,Female,19.38
+2022,Sweden,Other Heart Disease,Male,94.89
+2022,Sweden,Other Heart Disease,Female,64.6
+2022,Iceland,Other Heart Disease,Male,83.91
+2022,Iceland,Other Heart Disease,Female,76.04
+2022,Liechtenstein,Other Heart Disease,Male,78.6
+2022,Liechtenstein,Other Heart Disease,Female,65.96
+2022,Norway,Other Heart Disease,Male,65.33
+2022,Norway,Other Heart Disease,Female,49.69
+2022,Switzerland,Other Heart Disease,Male,70.1
+2022,Switzerland,Other Heart Disease,Female,50.37
+2022,Serbia,Other Heart Disease,Male,352.35
+2022,Serbia,Other Heart Disease,Female,301.32
+2023,Belgium,Other Heart Disease,Male,104.76
+2023,Belgium,Other Heart Disease,Female,81.47
+2023,Czech Republic,Other Heart Disease,Male,138.36
+2023,Czech Republic,Other Heart Disease,Female,95.05
+2023,Denmark,Other Heart Disease,Male,66.41
+2023,Denmark,Other Heart Disease,Female,39.31
+2023,Germany,Other Heart Disease,Male,103.6
+2023,Germany,Other Heart Disease,Female,81.12
+2023,Ireland,Other Heart Disease,Male,59.94
+2023,Ireland,Other Heart Disease,Female,53.15
+2023,Greece,Other Heart Disease,Male,83.28
+2023,Greece,Other Heart Disease,Female,76.21
+2023,Spain,Other Heart Disease,Male,81.71
+2023,Spain,Other Heart Disease,Female,61.98
+2023,France,Other Heart Disease,Male,76.57
+2023,France,Other Heart Disease,Female,49.16
+2023,Croatia,Other Heart Disease,Male,107.05
+2023,Croatia,Other Heart Disease,Female,81.02
+2023,Italy,Other Heart Disease,Male,70.89
+2023,Italy,Other Heart Disease,Female,53.66
+2023,Cyprus,Other Heart Disease,Male,87.9
+2023,Cyprus,Other Heart Disease,Female,85.58
+2023,Latvia,Other Heart Disease,Male,142.91
+2023,Latvia,Other Heart Disease,Female,63.54
+2023,Lithuania,Other Heart Disease,Male,47.8
+2023,Lithuania,Other Heart Disease,Female,16.97
+2023,Luxembourg,Other Heart Disease,Male,95.71
+2023,Luxembourg,Other Heart Disease,Female,71.66
+2023,Hungary,Other Heart Disease,Male,90.61
+2023,Hungary,Other Heart Disease,Female,51.02
+2023,Malta,Other Heart Disease,Male,48.71
+2023,Malta,Other Heart Disease,Female,55.12
+2023,Netherlands,Other Heart Disease,Male,99.55
+2023,Netherlands,Other Heart Disease,Female,75.3
+2023,Austria,Other Heart Disease,Male,91.19
+2023,Austria,Other Heart Disease,Female,74.96
+2023,Poland,Other Heart Disease,Male,116.63
+2023,Poland,Other Heart Disease,Female,74.25
+2023,Portugal,Other Heart Disease,Male,78.08
+2023,Portugal,Other Heart Disease,Female,63.2
+2023,Romania,Other Heart Disease,Male,96.34
+2023,Romania,Other Heart Disease,Female,55.93
+2023,Slovenia,Other Heart Disease,Male,107.69
+2023,Slovenia,Other Heart Disease,Female,102.08
+2023,Slovakia,Other Heart Disease,Male,88.29
+2023,Slovakia,Other Heart Disease,Female,58.9
+2023,Finland,Other Heart Disease,Male,39.61
+2023,Finland,Other Heart Disease,Female,21.14
+2023,Sweden,Other Heart Disease,Male,91.34
+2023,Sweden,Other Heart Disease,Female,62.53
+2023,Iceland,Other Heart Disease,Male,84.87
+2023,Iceland,Other Heart Disease,Female,62.53
+2023,Liechtenstein,Other Heart Disease,Male,68.19
+2023,Liechtenstein,Other Heart Disease,Female,62.2
+2023,Norway,Other Heart Disease,Male,64.52
+2023,Norway,Other Heart Disease,Female,51.19
+2023,Switzerland,Other Heart Disease,Male,65.91
+2023,Switzerland,Other Heart Disease,Female,50.23
+2023,Serbia,Other Heart Disease,Male,412.12
+2023,Serbia,Other Heart Disease,Female,342.81
+2021,Belgium,Other Ischaemic Heart Diseases,Male,39.05
+2021,Belgium,Other Ischaemic Heart Diseases,Female,16.23
+2021,Czech Republic,Other Ischaemic Heart Diseases,Male,266.44
+2021,Czech Republic,Other Ischaemic Heart Diseases,Female,173.53
+2021,Denmark,Other Ischaemic Heart Diseases,Male,57.06
+2021,Denmark,Other Ischaemic Heart Diseases,Female,26.79
+2021,Germany,Other Ischaemic Heart Diseases,Male,112.13
+2021,Germany,Other Ischaemic Heart Diseases,Female,56.02
+2021,Estonia,Other Ischaemic Heart Diseases,Male,205.87
+2021,Estonia,Other Ischaemic Heart Diseases,Female,104.85
+2021,Ireland,Other Ischaemic Heart Diseases,Male,97.65
+2021,Ireland,Other Ischaemic Heart Diseases,Female,45.07
+2021,Greece,Other Ischaemic Heart Diseases,Male,72.59
+2021,Greece,Other Ischaemic Heart Diseases,Female,38.4
+2021,Spain,Other Ischaemic Heart Diseases,Male,44.29
+2021,Spain,Other Ischaemic Heart Diseases,Female,17.74
+2021,France,Other Ischaemic Heart Diseases,Male,39.3
+2021,France,Other Ischaemic Heart Diseases,Female,13.74
+2021,Croatia,Other Ischaemic Heart Diseases,Male,153.96
+2021,Croatia,Other Ischaemic Heart Diseases,Female,126.26
+2021,Italy,Other Ischaemic Heart Diseases,Male,73.36
+2021,Italy,Other Ischaemic Heart Diseases,Female,38.7
+2021,Cyprus,Other Ischaemic Heart Diseases,Male,56.37
+2021,Cyprus,Other Ischaemic Heart Diseases,Female,26.39
+2021,Latvia,Other Ischaemic Heart Diseases,Male,404.24
+2021,Latvia,Other Ischaemic Heart Diseases,Female,229.53
+2021,Lithuania,Other Ischaemic Heart Diseases,Male,558.28
+2021,Lithuania,Other Ischaemic Heart Diseases,Female,349.88
+2021,Luxembourg,Other Ischaemic Heart Diseases,Male,55.64
+2021,Luxembourg,Other Ischaemic Heart Diseases,Female,21.77
+2021,Hungary,Other Ischaemic Heart Diseases,Male,361.91
+2021,Hungary,Other Ischaemic Heart Diseases,Female,251.7
+2021,Malta,Other Ischaemic Heart Diseases,Male,108.89
+2021,Malta,Other Ischaemic Heart Diseases,Female,55.5
+2021,Netherlands,Other Ischaemic Heart Diseases,Male,32.58
+2021,Netherlands,Other Ischaemic Heart Diseases,Female,12.91
+2021,Austria,Other Ischaemic Heart Diseases,Male,136.7
+2021,Austria,Other Ischaemic Heart Diseases,Female,77.96
+2021,Poland,Other Ischaemic Heart Diseases,Male,132.36
+2021,Poland,Other Ischaemic Heart Diseases,Female,78.23
+2021,Portugal,Other Ischaemic Heart Diseases,Male,37.77
+2021,Portugal,Other Ischaemic Heart Diseases,Female,15.7
+2021,Romania,Other Ischaemic Heart Diseases,Male,206.64
+2021,Romania,Other Ischaemic Heart Diseases,Female,159.36
+2021,Slovenia,Other Ischaemic Heart Diseases,Male,45.16
+2021,Slovenia,Other Ischaemic Heart Diseases,Female,27.57
+2021,Finland,Other Ischaemic Heart Diseases,Male,165.64
+2021,Finland,Other Ischaemic Heart Diseases,Female,70.41
+2021,Sweden,Other Ischaemic Heart Diseases,Male,78.92
+2021,Sweden,Other Ischaemic Heart Diseases,Female,37.19
+2021,Iceland,Other Ischaemic Heart Diseases,Male,93.48
+2021,Iceland,Other Ischaemic Heart Diseases,Female,47.3
+2021,Liechtenstein,Other Ischaemic Heart Diseases,Male,58.53
+2021,Liechtenstein,Other Ischaemic Heart Diseases,Female,15.05
+2021,Norway,Other Ischaemic Heart Diseases,Male,44.67
+2021,Norway,Other Ischaemic Heart Diseases,Female,18.67
+2021,Switzerland,Other Ischaemic Heart Diseases,Male,76.69
+2021,Switzerland,Other Ischaemic Heart Diseases,Female,37.26
+2021,Serbia,Other Ischaemic Heart Diseases,Male,83.73
+2021,Serbia,Other Ischaemic Heart Diseases,Female,64.69
+2022,Belgium,Other Ischaemic Heart Diseases,Male,36.73
+2022,Belgium,Other Ischaemic Heart Diseases,Female,14.59
+2022,Czech Republic,Other Ischaemic Heart Diseases,Male,286.4
+2022,Czech Republic,Other Ischaemic Heart Diseases,Female,181.68
+2022,Denmark,Other Ischaemic Heart Diseases,Male,59.6
+2022,Denmark,Other Ischaemic Heart Diseases,Female,25.16
+2022,Germany,Other Ischaemic Heart Diseases,Male,113.37
+2022,Germany,Other Ischaemic Heart Diseases,Female,55.67
+2022,Estonia,Other Ischaemic Heart Diseases,Male,182.79
+2022,Estonia,Other Ischaemic Heart Diseases,Female,87.38
+2022,Ireland,Other Ischaemic Heart Diseases,Male,95.61
+2022,Ireland,Other Ischaemic Heart Diseases,Female,45.39
+2022,Greece,Other Ischaemic Heart Diseases,Male,73.07
+2022,Greece,Other Ischaemic Heart Diseases,Female,39.06
+2022,Spain,Other Ischaemic Heart Diseases,Male,45.12
+2022,Spain,Other Ischaemic Heart Diseases,Female,17.35
+2022,France,Other Ischaemic Heart Diseases,Male,38.41
+2022,France,Other Ischaemic Heart Diseases,Female,12.93
+2022,Croatia,Other Ischaemic Heart Diseases,Male,149.37
+2022,Croatia,Other Ischaemic Heart Diseases,Female,118.36
+2022,Italy,Other Ischaemic Heart Diseases,Male,75.5
+2022,Italy,Other Ischaemic Heart Diseases,Female,39.2
+2022,Cyprus,Other Ischaemic Heart Diseases,Male,66.97
+2022,Cyprus,Other Ischaemic Heart Diseases,Female,35.11
+2022,Latvia,Other Ischaemic Heart Diseases,Male,411.34
+2022,Latvia,Other Ischaemic Heart Diseases,Female,225.81
+2022,Lithuania,Other Ischaemic Heart Diseases,Male,618.94
+2022,Lithuania,Other Ischaemic Heart Diseases,Female,364.18
+2022,Luxembourg,Other Ischaemic Heart Diseases,Male,43.72
+2022,Luxembourg,Other Ischaemic Heart Diseases,Female,19.03
+2022,Hungary,Other Ischaemic Heart Diseases,Male,360.3
+2022,Hungary,Other Ischaemic Heart Diseases,Female,253.07
+2022,Malta,Other Ischaemic Heart Diseases,Male,91.29
+2022,Malta,Other Ischaemic Heart Diseases,Female,65.61
+2022,Netherlands,Other Ischaemic Heart Diseases,Male,32.34
+2022,Netherlands,Other Ischaemic Heart Diseases,Female,12.09
+2022,Austria,Other Ischaemic Heart Diseases,Male,132.06
+2022,Austria,Other Ischaemic Heart Diseases,Female,75.27
+2022,Poland,Other Ischaemic Heart Diseases,Male,158.33
+2022,Poland,Other Ischaemic Heart Diseases,Female,93.91
+2022,Portugal,Other Ischaemic Heart Diseases,Male,33.75
+2022,Portugal,Other Ischaemic Heart Diseases,Female,15.89
+2022,Romania,Other Ischaemic Heart Diseases,Male,240.3
+2022,Romania,Other Ischaemic Heart Diseases,Female,174.92
+2022,Slovenia,Other Ischaemic Heart Diseases,Male,43.41
+2022,Slovenia,Other Ischaemic Heart Diseases,Female,25.36
+2022,Finland,Other Ischaemic Heart Diseases,Male,162.69
+2022,Finland,Other Ischaemic Heart Diseases,Female,67.39
+2022,Sweden,Other Ischaemic Heart Diseases,Male,81.07
+2022,Sweden,Other Ischaemic Heart Diseases,Female,38.69
+2022,Iceland,Other Ischaemic Heart Diseases,Male,104.27
+2022,Iceland,Other Ischaemic Heart Diseases,Female,45.19
+2022,Liechtenstein,Other Ischaemic Heart Diseases,Male,56.86
+2022,Liechtenstein,Other Ischaemic Heart Diseases,Female,32.59
+2022,Norway,Other Ischaemic Heart Diseases,Male,46.86
+2022,Norway,Other Ischaemic Heart Diseases,Female,21.13
+2022,Switzerland,Other Ischaemic Heart Diseases,Male,76.37
+2022,Switzerland,Other Ischaemic Heart Diseases,Female,34.28
+2022,Serbia,Other Ischaemic Heart Diseases,Male,80.06
+2022,Serbia,Other Ischaemic Heart Diseases,Female,60.52
+2023,Belgium,Other Ischaemic Heart Diseases,Male,37.24
+2023,Belgium,Other Ischaemic Heart Diseases,Female,13.7
+2023,Czech Republic,Other Ischaemic Heart Diseases,Male,274.32
+2023,Czech Republic,Other Ischaemic Heart Diseases,Female,165.84
+2023,Denmark,Other Ischaemic Heart Diseases,Male,57.99
+2023,Denmark,Other Ischaemic Heart Diseases,Female,26.18
+2023,Germany,Other Ischaemic Heart Diseases,Male,110.03
+2023,Germany,Other Ischaemic Heart Diseases,Female,53.95
+2023,Estonia,Other Ischaemic Heart Diseases,Male,178.52
+2023,Estonia,Other Ischaemic Heart Diseases,Female,91.52
+2023,Ireland,Other Ischaemic Heart Diseases,Male,98.41
+2023,Ireland,Other Ischaemic Heart Diseases,Female,46.11
+2023,Greece,Other Ischaemic Heart Diseases,Male,74.61
+2023,Greece,Other Ischaemic Heart Diseases,Female,42.9
+2023,Spain,Other Ischaemic Heart Diseases,Male,43.9
+2023,Spain,Other Ischaemic Heart Diseases,Female,16.41
+2023,France,Other Ischaemic Heart Diseases,Male,37.72
+2023,France,Other Ischaemic Heart Diseases,Female,12.59
+2023,Croatia,Other Ischaemic Heart Diseases,Male,154.49
+2023,Croatia,Other Ischaemic Heart Diseases,Female,114.24
+2023,Italy,Other Ischaemic Heart Diseases,Male,69.5
+2023,Italy,Other Ischaemic Heart Diseases,Female,35.67
+2023,Cyprus,Other Ischaemic Heart Diseases,Male,55.49
+2023,Cyprus,Other Ischaemic Heart Diseases,Female,24.94
+2023,Latvia,Other Ischaemic Heart Diseases,Male,447.14
+2023,Latvia,Other Ischaemic Heart Diseases,Female,239.96
+2023,Lithuania,Other Ischaemic Heart Diseases,Male,595.62
+2023,Lithuania,Other Ischaemic Heart Diseases,Female,367.57
+2023,Luxembourg,Other Ischaemic Heart Diseases,Male,43.91
+2023,Luxembourg,Other Ischaemic Heart Diseases,Female,15.63
+2023,Hungary,Other Ischaemic Heart Diseases,Male,355.16
+2023,Hungary,Other Ischaemic Heart Diseases,Female,244.34
+2023,Malta,Other Ischaemic Heart Diseases,Male,82.35
+2023,Malta,Other Ischaemic Heart Diseases,Female,49.92
+2023,Netherlands,Other Ischaemic Heart Diseases,Male,30.2
+2023,Netherlands,Other Ischaemic Heart Diseases,Female,11.97
+2023,Austria,Other Ischaemic Heart Diseases,Male,120.68
+2023,Austria,Other Ischaemic Heart Diseases,Female,67.86
+2023,Poland,Other Ischaemic Heart Diseases,Male,229.34
+2023,Poland,Other Ischaemic Heart Diseases,Female,151.33
+2023,Portugal,Other Ischaemic Heart Diseases,Male,31.2
+2023,Portugal,Other Ischaemic Heart Diseases,Female,14.58
+2023,Romania,Other Ischaemic Heart Diseases,Male,252.72
+2023,Romania,Other Ischaemic Heart Diseases,Female,184.78
+2023,Slovenia,Other Ischaemic Heart Diseases,Male,47.78
+2023,Slovenia,Other Ischaemic Heart Diseases,Female,24.06
+2023,Finland,Other Ischaemic Heart Diseases,Male,166.21
+2023,Finland,Other Ischaemic Heart Diseases,Female,67.67
+2023,Sweden,Other Ischaemic Heart Diseases,Male,77.01
+2023,Sweden,Other Ischaemic Heart Diseases,Female,36.18
+2023,Iceland,Other Ischaemic Heart Diseases,Male,97.76
+2023,Iceland,Other Ischaemic Heart Diseases,Female,44.99
+2023,Liechtenstein,Other Ischaemic Heart Diseases,Male,76.27
+2023,Liechtenstein,Other Ischaemic Heart Diseases,Female,80.93
+2023,Norway,Other Ischaemic Heart Diseases,Male,54.33
+2023,Norway,Other Ischaemic Heart Diseases,Female,25.63
+2023,Switzerland,Other Ischaemic Heart Diseases,Male,67.17
+2023,Switzerland,Other Ischaemic Heart Diseases,Female,31.68
+2023,Serbia,Other Ischaemic Heart Diseases,Male,79.92
+2023,Serbia,Other Ischaemic Heart Diseases,Female,61.8
+2021,Belgium,Ischaemic,Male,83.27
+2021,Belgium,Ischaemic,Female,36.98
+2021,Czech Republic,Ischaemic,Male,322.41
+2021,Czech Republic,Ischaemic,Female,200.36
+2021,Denmark,Ischaemic,Male,87.5
+2021,Denmark,Ischaemic,Female,40.83
+2021,Germany,Ischaemic,Male,178.64
+2021,Germany,Ischaemic,Female,87.44
+2021,Estonia,Ischaemic,Male,261.12
+2021,Estonia,Ischaemic,Female,128.68
+2021,Ireland,Ischaemic,Male,165.25
+2021,Ireland,Ischaemic,Female,78.94
+2021,Greece,Ischaemic,Male,146.44
+2021,Greece,Ischaemic,Female,70.32
+2021,Spain,Ischaemic,Male,82.5
+2021,Spain,Ischaemic,Female,33.9
+2021,France,Ischaemic,Male,66.54
+2021,France,Ischaemic,Female,24.82
+2021,Croatia,Ischaemic,Male,254.17
+2021,Croatia,Ischaemic,Female,171.95
+2021,Italy,Ischaemic,Male,111.06
+2021,Italy,Ischaemic,Female,56.12
+2021,Cyprus,Ischaemic,Male,119.61
+2021,Cyprus,Ischaemic,Female,48.17
+2021,Latvia,Ischaemic,Male,474.34
+2021,Latvia,Ischaemic,Female,257.67
+2021,Lithuania,Ischaemic,Male,618.53
+2021,Lithuania,Ischaemic,Female,375.76
+2021,Luxembourg,Ischaemic,Male,96.59
+2021,Luxembourg,Ischaemic,Female,36.2
+2021,Hungary,Ischaemic,Male,450.3
+2021,Hungary,Ischaemic,Female,292.33
+2021,Malta,Ischaemic,Male,219.55
+2021,Malta,Ischaemic,Female,113.73
+2021,Netherlands,Ischaemic,Male,73.98
+2021,Netherlands,Ischaemic,Female,34.75
+2021,Austria,Ischaemic,Male,207.01
+2021,Austria,Ischaemic,Female,110.15
+2021,Poland,Ischaemic,Male,186.11
+2021,Poland,Ischaemic,Female,102.29
+2021,Portugal,Ischaemic,Male,88.98
+2021,Portugal,Ischaemic,Female,40.2
+2021,Romania,Ischaemic,Male,347.88
+2021,Romania,Ischaemic,Female,231.98
+2021,Finland,Ischaemic,Male,220.39
+2021,Finland,Ischaemic,Female,96.78
+2021,Sweden,Ischaemic,Male,133.64
+2021,Sweden,Ischaemic,Female,66.46
+2021,Iceland,Ischaemic,Male,148.39
+2021,Iceland,Ischaemic,Female,81.07
+2021,Liechtenstein,Ischaemic,Male,81.74
+2021,Liechtenstein,Ischaemic,Female,15.05
+2021,Norway,Ischaemic,Male,95.81
+2021,Norway,Ischaemic,Female,47.32
+2021,Switzerland,Ischaemic,Male,115.11
+2021,Switzerland,Ischaemic,Female,55.32
+2022,Belgium,Ischaemic,Male,78
+2022,Belgium,Ischaemic,Female,32.54
+2022,Czech Republic,Ischaemic,Male,341.26
+2022,Czech Republic,Ischaemic,Female,205.26
+2022,Denmark,Ischaemic,Male,89.54
+2022,Denmark,Ischaemic,Female,38.39
+2022,Germany,Ischaemic,Male,179.15
+2022,Germany,Ischaemic,Female,86.13
+2022,Estonia,Ischaemic,Male,236.83
+2022,Estonia,Ischaemic,Female,109.6
+2022,Ireland,Ischaemic,Male,160.12
+2022,Ireland,Ischaemic,Female,77.08
+2022,Greece,Ischaemic,Male,145.2
+2022,Greece,Ischaemic,Female,72.97
+2022,Spain,Ischaemic,Male,84.15
+2022,Spain,Ischaemic,Female,33.53
+2022,France,Ischaemic,Male,64.97
+2022,France,Ischaemic,Female,23.24
+2022,Croatia,Ischaemic,Male,245.05
+2022,Croatia,Ischaemic,Female,157.62
+2022,Italy,Ischaemic,Male,113.64
+2022,Italy,Ischaemic,Female,56.8
+2022,Cyprus,Ischaemic,Male,122.29
+2022,Cyprus,Ischaemic,Female,62.63
+2022,Latvia,Ischaemic,Male,478.06
+2022,Latvia,Ischaemic,Female,253.43
+2022,Lithuania,Ischaemic,Male,681.69
+2022,Lithuania,Ischaemic,Female,388.52
+2022,Luxembourg,Ischaemic,Male,84.39
+2022,Luxembourg,Ischaemic,Female,35.76
+2022,Hungary,Ischaemic,Male,446.23
+2022,Hungary,Ischaemic,Female,294.18
+2022,Malta,Ischaemic,Male,191.5
+2022,Malta,Ischaemic,Female,127.55
+2022,Netherlands,Ischaemic,Male,71.31
+2022,Netherlands,Ischaemic,Female,32.11
+2022,Austria,Ischaemic,Male,205.33
+2022,Austria,Ischaemic,Female,108.11
+2022,Poland,Ischaemic,Male,221.69
+2022,Poland,Ischaemic,Female,120.09
+2022,Portugal,Ischaemic,Male,84.43
+2022,Portugal,Ischaemic,Female,38.21
+2022,Romania,Ischaemic,Male,395.37
+2022,Romania,Ischaemic,Female,249.62
+2022,Finland,Ischaemic,Male,217.07
+2022,Finland,Ischaemic,Female,90.47
+2022,Sweden,Ischaemic,Male,131.18
+2022,Sweden,Ischaemic,Female,63.04
+2022,Iceland,Ischaemic,Male,144.21
+2022,Iceland,Ischaemic,Female,71.74
+2022,Liechtenstein,Ischaemic,Male,74.41
+2022,Liechtenstein,Ischaemic,Female,37.65
+2022,Norway,Ischaemic,Male,89.11
+2022,Norway,Ischaemic,Female,45.95
+2022,Switzerland,Ischaemic,Male,115.76
+2022,Switzerland,Ischaemic,Female,51.93
+2023,Belgium,Ischaemic,Male,78.04
+2023,Belgium,Ischaemic,Female,32.13
+2023,Czech Republic,Ischaemic,Male,324.53
+2023,Czech Republic,Ischaemic,Female,187.19
+2023,Denmark,Ischaemic,Male,87.13
+2023,Denmark,Ischaemic,Female,38.61
+2023,Germany,Ischaemic,Male,176.78
+2023,Germany,Ischaemic,Female,84.1
+2023,Estonia,Ischaemic,Male,233.72
+2023,Estonia,Ischaemic,Female,113.53
+2023,Ireland,Ischaemic,Male,160.37
+2023,Ireland,Ischaemic,Female,73.83
+2023,Greece,Ischaemic,Male,153.37
+2023,Greece,Ischaemic,Female,76.12
+2023,Spain,Ischaemic,Male,80.57
+2023,Spain,Ischaemic,Female,32.04
+2023,France,Ischaemic,Male,64.56
+2023,France,Ischaemic,Female,23.06
+2023,Croatia,Ischaemic,Male,259.91
+2023,Croatia,Ischaemic,Female,161.2
+2023,Italy,Ischaemic,Male,105.13
+2023,Italy,Ischaemic,Female,51.92
+2023,Cyprus,Ischaemic,Male,118.29
+2023,Cyprus,Ischaemic,Female,45.31
+2023,Latvia,Ischaemic,Male,518.4
+2023,Latvia,Ischaemic,Female,266.78
+2023,Lithuania,Ischaemic,Male,660.32
+2023,Lithuania,Ischaemic,Female,389.19
+2023,Luxembourg,Ischaemic,Male,78.2
+2023,Luxembourg,Ischaemic,Female,30
+2023,Hungary,Ischaemic,Male,445.49
+2023,Hungary,Ischaemic,Female,288.18
+2023,Malta,Ischaemic,Male,168.4
+2023,Malta,Ischaemic,Female,111.31
+2023,Netherlands,Ischaemic,Male,70.85
+2023,Netherlands,Ischaemic,Female,31.24
+2023,Austria,Ischaemic,Male,190.47
+2023,Austria,Ischaemic,Female,97.48
+2023,Poland,Ischaemic,Male,283.43
+2023,Poland,Ischaemic,Female,173.32
+2023,Portugal,Ischaemic,Male,76.73
+2023,Portugal,Ischaemic,Female,36.09
+2023,Romania,Ischaemic,Male,422.36
+2023,Romania,Ischaemic,Female,268.33
+2023,Finland,Ischaemic,Male,216.65
+2023,Finland,Ischaemic,Female,89.35
+2023,Sweden,Ischaemic,Male,127.07
+2023,Sweden,Ischaemic,Female,58.77
+2023,Iceland,Ischaemic,Male,146.85
+2023,Iceland,Ischaemic,Female,61.71
+2023,Liechtenstein,Ischaemic,Male,99.9
+2023,Liechtenstein,Ischaemic,Female,95.37
+2023,Norway,Ischaemic,Male,98.38
+2023,Norway,Ischaemic,Female,48.67
+2023,Switzerland,Ischaemic,Male,103.99
+2023,Switzerland,Ischaemic,Female,47.7
